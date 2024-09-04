@@ -17,11 +17,16 @@ I bring a unique combination of creative expertise from cinematography, televisi
   
 </div>
 
+
+<br>
+
+<div>
+  
 - 💻 Student of Computer Science
 - 📽️ Video Maker
 - 👩‍💻 Enthusiasm in Data Science
 
-
+</div>
 
 
 <div>
