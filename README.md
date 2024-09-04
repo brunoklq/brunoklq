@@ -1,3 +1,6 @@
-## Hi there 👋
+<img src= "portfolioimage.gif" width = "320px" align = "right">
 
-<img src= "portfolioimage.gif" width = "320px">
+
+# Welcome to my Github👋    
+
+
