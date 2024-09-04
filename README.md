@@ -3,7 +3,7 @@
 # Welcome to my Github!       
 
  
-### <img src = "portfolioimage.gif" width = "325px"   align = "right" > 
+### <img src = "portfolioimage.gif" width = "355px"   align = "right" > 
 
 ### 
 <div>
@@ -25,7 +25,7 @@ I bring a unique combination of creative expertise from cinematography, televisi
   
 - 💻 Student of Computer Science
 - 📽️ Video Maker
-- 👩‍💻 Enthusiasm in Data Science
+- 👩‍💻 Enthusiast in Data Science
 
 </div>
 
