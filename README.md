@@ -14,7 +14,7 @@ now transitioning into Computer Science.
 </div>
 
 <div>
-I bring a unique combination of creative expertise from cinematography, television,<br> and digital media, complemented by newly acquired analytical skills.
+I bring a unique combination of creative expertise from cinematography, television, and digital media, complemented <br> by newly acquired analytical skills.
   
 </div>
 
