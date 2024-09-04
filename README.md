@@ -8,7 +8,7 @@
 ### 
 <div>
   
-Experienced professional with more than ten years in the audiovisual production industry, now transitioning into Computer Science. I bring a unique combination of creative expertise from cinematography, television, and digital media, complemented by newly acquired analytical skills.
+### Experienced professional with more than ten years in the audiovisual production industry, now transitioning into Computer Science. I bring a unique combination of creative expertise from cinematography, television, and digital media, complemented by newly acquired analytical skills.
 
 </div>
 
