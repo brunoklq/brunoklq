@@ -8,7 +8,7 @@
 ### 
 <div>
   
-Experienced professional with more than ten years in the audiovisual production industry, <br>
+Experienced professional with more than ten years in the audiovisual production industry,
 now transitioning into Computer Science. 
 
 </div>
