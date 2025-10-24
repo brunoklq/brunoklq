@@ -14,7 +14,7 @@ now transitioning into Computer Science.
 </div>
 
 <div>
-I bring a unique combination of creative expertise from cinematography, television, and digital media, complemented  by newly acquired <br> analytical skills.
+Experienced professional with over ten years in the audiovisual production industry, now building a strong foundation in Computer Science. I combine a decade of creative expertise in cinematography, television, and digital media with growing technical proficiency in programming, data structures, and software development. This blend of creativity and analytical thinking allows me to approach problem-solving with both innovation and precision.
   
 </div>
 
