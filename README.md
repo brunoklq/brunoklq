@@ -34,7 +34,3 @@ Experienced professional with over ten years in the audiovisual production indus
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoklq&show_icons=true&theme=bear&count_private=true"/>
-
-</div>
